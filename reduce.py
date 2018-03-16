@@ -93,16 +93,3 @@ for i in data:
         continue
 print("完成域名处理~")
 db.close()
-
-
-
-
-
-
-
-
-
-
-
-
-
