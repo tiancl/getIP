@@ -9,7 +9,13 @@
 
 # 2、技术
 
-python3.6 mysql
+2.1、python3.6
+   requests
+   beautifulsoup
+   re
+   pymysql
+2.2、mysql
+
 
 # 3、核心内容
 
